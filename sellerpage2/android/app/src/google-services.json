@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "367104948166",
+    "project_id": "sample-405cf",
+    "storage_bucket": "sample-405cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367104948166:android:efd952a49d4fcd82bfa4c7",
+        "android_client_info": {
+          "package_name": "com.saheli.sellerpage2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367104948166-91466u21rqs463qji2f736jncvpdg380.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE20pghLpCrMSF2YVOUumRg0ToGb48cM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367104948166-91466u21rqs463qji2f736jncvpdg380.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
